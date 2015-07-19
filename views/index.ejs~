@@ -8,5 +8,6 @@
     <h1><%= title %></h1>
     <p>Welcome to <%= title %></p>
     <p>Bienvenidos a la pagina de juegos</p>
+    <p><a href="/quizes/question"> Comience a Jugar </a></p>	
   </body>
 </html>
