@@ -9,4 +9,5 @@ exports.answer = function(req, res) {
 	   res.render('quizes/answer', {respuesta: 'Corecto'});
 	} else {
 	   res.render('quizes/answer', {respuesta: 'Incorecto'});
-
+	}
+};
